@@ -18,3 +18,5 @@ void PrintQuart(int a)
     }
 }
     PrintQuart(n);
+
+   
